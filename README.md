@@ -2,7 +2,6 @@
 
 - 📖 Cursando Ciência da Computação
 - 💡 Estudando Python
-- ✉️ Contate-me no email: jdeodato88@gmail.com
 ##
 <div align="center">
   <a href="https://github.com/JuanDeodato04">
