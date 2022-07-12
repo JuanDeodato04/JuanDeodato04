@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Juan Deodato 👋
 
 - 📖 Cursando Ciência da Computação
-- 💡 Estudando Python
+- 💡 Estudando programação
 ##
 <div align="center">
   <a href="https://github.com/JuanDeodato04">
